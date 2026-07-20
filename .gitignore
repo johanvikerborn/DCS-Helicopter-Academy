@@ -1,0 +1,17 @@
+# DCS tracks
+*.trk
+
+# Videos
+*.mp4
+*.mkv
+
+# Linux
+*.swp
+*~
+
+# Archives
+*.zip
+*.7z
+
+# Temporary files
+tmp/
